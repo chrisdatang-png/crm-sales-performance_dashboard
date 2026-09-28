@@ -3,3 +3,6 @@ CRM Sales Performance Analysis using SQL and Power BI to analyze revenue, win ra
 ## Tools Used
 - SQL
 - Power BI
+## Dashboard
+
+![CRM Sales Performance Dashboard](crm.png)
