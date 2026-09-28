@@ -5,4 +5,4 @@ CRM Sales Performance Analysis using SQL and Power BI to analyze revenue, win ra
 - Power BI
 ## Dashboard
 
-![CRMD Sales Performance Dashboard](crm.png)
+![CRMD Sales Performance Dashboard](crmd.png)
